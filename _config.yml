@@ -36,7 +36,7 @@ plugins:
 comment:
   provider:       "disqus"
   disqus: 
-    shortname:    "super-corini"
+    shortname:    "docherryra"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
