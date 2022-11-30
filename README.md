@@ -12,7 +12,7 @@
 <br/>
   명령을 실행하면 .git 하위폴더가 생성된다.
 
-2. 리모트 저장소 생성
+2. 리모트 저장소 생성<br/>
   Github에서 새로운 Repository를 하나 생성한다.
 <br/>
   Repo 이름 : docherryra.github.io
