@@ -57,15 +57,18 @@ Lanyon 테마를 설치한 후 로컬 폴더에 덮어씌워 테마를 적용시
  - disqus 회원가입 후 웹사이트 생성 (jekyll platform 등 설정)
  - _config.yml 파일에 다음과 같은 key-value 추가
   <br/>
+  
 [![1](https://user-images.githubusercontent.com/104899885/204676617-36225006-3d89-44cd-b6ed-521370909803.png)](https://docherryra.github.io/)
   <br/>
  - disqus 홈페이지에서 Universal Code 복사
  - post.html 파일에 적용 (아래 사진 참고)
   <br/>
+  
 [![2](https://user-images.githubusercontent.com/104899885/204676615-b0590928-afb3-41fb-9e95-4b261d270178.png)](https://docherryra.github.io/)
   <br/>
  - 댓글 기능을 추가하고 싶은 포스트의 파일에 'comments:true' 추가
   <br/>
+  
 [![3](https://user-images.githubusercontent.com/104899885/204676606-756d6cec-16c8-4a6a-9451-3ad99ab0aa5f.png)](https://docherryra.github.io/)
 
 ### 2. 파비콘 변경
@@ -77,6 +80,7 @@ Lanyon 테마를 설치한 후 로컬 폴더에 덮어씌워 테마를 적용시
 - _config.yml 파일을 수정 : **asset_url: /assets** 추가
 - head.html 파일에 파비콘 설정을 추가한다.
   <br/>
+  
 [![4](https://user-images.githubusercontent.com/104899885/204677174-86db5971-9350-4f4c-89f1-0d3e3df2a17a.png)](https://docherryra.github.io/)
 
 ### 3. Google Analytics
