@@ -1,6 +1,6 @@
 ## Github page Build
 
-1. 로컬 저장소 생성 : 프로젝트에 이용할 로컬 저장소를 생성한다.
+### 1. 로컬 저장소 생성 : 프로젝트에 이용할 로컬 저장소를 생성한다.
 
   사용할 디렉토리를 하나 선택한다.
 <br/>
@@ -12,7 +12,8 @@
 <br/>
   명령을 실행하면 .git 하위폴더가 생성된다.
 
-2. 리모트 저장소 생성<br/>
+### 2. 리모트 저장소 생성<br/>
+  <br/>
   Github에서 새로운 Repository를 하나 생성한다. <br/>
   Repo 이름 : docherryra.github.io
 <br/>
@@ -22,8 +23,9 @@
   url 주소 : https://github.com/docherryra/docherryra.github.io
   <br/>
   $ git remote -v 명령을 실행하여 연결 상태를 확인한다.
+  <br/>
 
-3. 로컬 저장소 - 리모트 저장 동기화
+### 3. 로컬 저장소 - 리모트 저장 동기화
 $ git add
 $ git commit
 $ git push
