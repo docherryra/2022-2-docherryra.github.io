@@ -26,7 +26,6 @@
   <br/>
 
 ### 3. 로컬 저장소 - 리모트 저장 동기화
-<br/>
 $ git add
 <br/>
 $ git commit
