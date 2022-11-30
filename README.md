@@ -2,29 +2,28 @@
 
 1. 로컬 저장소 생성 : 프로젝트에 이용할 로컬 저장소를 생성한다.
 
-사용할 디렉토리를 하나 선택한다.
+  사용할 디렉토리를 하나 선택한다.
 <br/>
-경로 : "C:\Users\doche\Desktop\gitblog\blog"
+  경로 : "C:\Users\doche\Desktop\gitblog\blog"
 
-cmd에 다음과 같은 명령을 실행한다.
+  cmd에 다음과 같은 명령을 실행한다.
 <br/>
-$ git init
+  $ git init
 <br/>
-명령을 실행하면 .git 하위폴더가 생성된다.
+  명령을 실행하면 .git 하위폴더가 생성된다.
 
 2. 리모트 저장소 생성
+  Github에서 새로운 Repository를 하나 생성한다.
 <br/>
-Github에서 새로운 Repository를 하나 생성한다.
+  Repo 이름 : docherryra.github.io
 <br/>
-Repo 이름 : docherryra.github.io
+  로컬 커밋을 리모트 저장소에 올릴 수 있도록 다음과 같은 명령을 실행한다.
 <br/>
-로컬 커밋을 리모트 저장소에 올릴 수 있도록 다음과 같은 명령을 실행한다.
+  $ git remote add origin <url>
 <br/>
-$ git remote add origin <url>
+  url 주소 : https://github.com/docherryra/docherryra.github.io
 <br/>
-url 주소 : https://github.com/docherryra/docherryra.github.io
-<br/>
-$ git remote -v 명령을 실행하여 연결 상태를 확인한다.
+  $ git remote -v 명령을 실행하여 연결 상태를 확인한다.
 
 3. 로컬 저장소 - 리모트 저장 동기화
 $ git add
