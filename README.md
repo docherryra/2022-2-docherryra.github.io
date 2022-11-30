@@ -12,8 +12,8 @@
 <br/>
   명령을 실행하면 .git 하위폴더가 생성된다.
 
-### 2. 리모트 저장소 생성<br/>
-  <br/>
+### 2. 리모트 저장소 생성
+<br/>
   Github에서 새로운 Repository를 하나 생성한다. <br/>
   Repo 이름 : docherryra.github.io
 <br/>
@@ -50,7 +50,7 @@ Lanyon 테마를 설치한 후 로컬 폴더에 덮어씌워 테마를 적용시
 -------------------
 ## 추가 기능 구현
 
-1. 댓글 기능 추가
+### 1. 댓글 기능 추가
  - disqus 회원가입 후 웹사이트 생성 (jekyll platform 등 설정)
  - _config.yml 파일에 다음과 같은 key-value 추가
 [![1](https://user-images.githubusercontent.com/104899885/204676617-36225006-3d89-44cd-b6ed-521370909803.png)](https://docherryra.github.io/)
@@ -60,7 +60,7 @@ Lanyon 테마를 설치한 후 로컬 폴더에 덮어씌워 테마를 적용시
  - 댓글 기능을 추가하고 싶은 포스트의 파일에 'comments:true' 추가
 [![3](https://user-images.githubusercontent.com/104899885/204676606-756d6cec-16c8-4a6a-9451-3ad99ab0aa5f.png)](https://docherryra.github.io/)
 
-2. 파비콘 변경
+### 2. 파비콘 변경
 
 [파비콘 참고 자료](https://min9nim.github.io/2018/03/add-favicon/)
 
@@ -70,7 +70,7 @@ Lanyon 테마를 설치한 후 로컬 폴더에 덮어씌워 테마를 적용시
 - head.html 파일에 파비콘 설정을 추가한다.
 [![4](https://user-images.githubusercontent.com/104899885/204677174-86db5971-9350-4f4c-89f1-0d3e3df2a17a.png)](https://docherryra.github.io/)
 
-3. Google Analytics
+### 3. Google Analytics
 [구글 애널리틱스 참고 자료](https://infiduk.github.io/2019/11/05/google-analytics.html)
 
 구글 애널리틱스 빌드 과정은 아래 포스트에 기술하였다.
