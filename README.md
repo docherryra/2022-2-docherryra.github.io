@@ -13,12 +13,14 @@
   명령을 실행하면 .git 하위폴더가 생성된다.
 
 2. 리모트 저장소 생성<br/>
-  Github에서 새로운 Repository를 하나 생성한다.
+  Github에서 새로운 Repository를 하나 생성한다. <br/>
   Repo 이름 : docherryra.github.io
-
-  로컬 커밋을 리모트 저장소에 올릴 수 있도록 다음과 같은 명령을 실행한다.
+<br/>
+  로컬 커밋을 리모트 저장소에 올릴 수 있도록 다음과 같은 명령을 실행한다.<br/>
   $ git remote add origin <url>
+  <br/>
   url 주소 : https://github.com/docherryra/docherryra.github.io
+  <br/>
   $ git remote -v 명령을 실행하여 연결 상태를 확인한다.
 
 3. 로컬 저장소 - 리모트 저장 동기화
